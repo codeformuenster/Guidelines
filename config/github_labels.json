@@ -50,5 +50,9 @@
   {
     "name": "design",
     "color": "949024"
+  },
+  {
+    "name": "content",
+    "color": "f25048"
   }
 ]
